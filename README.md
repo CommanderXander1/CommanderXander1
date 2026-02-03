@@ -17,9 +17,9 @@ Languages:
 <ul>
   <li>Python</li>
   <li>Javascript</li>
+  <li>C, C++</li>
   <li>HTML, CSS</li>
   <li>Java</li>
-  <li>C, C++</li>
 </ul>
 
 Frameworks:
