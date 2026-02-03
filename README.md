@@ -1,10 +1,10 @@
-<h1>Hi, I'm Xander!</h1>
+#Hi, I'm Xander!
 
 <p>I'm a prospective Electrical Engineering student, and I love to learn through projects.</p> 
 <p>Most of the languages and frameworks on my portfolio I have learned through a project on this page!</p>
 <a href="commanderxander1.github.io/portfolio">My portfolio website</a>
 
-<h2>Skills:</h2>
+##Skills:
 <br>
 <ul>
   <li>Web development</li>
@@ -13,31 +13,67 @@
   <li>Integrated systems programming</li>
 </ul>
 
-Languages:
+##Languages:
 <ul>
   <li>Python</li>
   <li>Javascript</li>
   <li>C, C++</li>
   <li>HTML, CSS</li>
   <li>Java</li>
+  <li>SQL</li>
 </ul>
 
-Frameworks:
+##Frameworks:
 <ul>
   <li>Flask</li>
   <li>Tensorflow/Keras</li>
   <li>Scikit-learn</li>
   <li>React/React Native</li>
   <li>Arduino</li>
+  <li>FRC/FTC</li>
 </ul>
 
-Projects:
+##Projects:
 <ul>
-  <li>Maymester course algorithm</li>
-  <li>Valentine's Day matchmaker survey</li>
-  <li>LSTM Neural network stock analysis and future prediction</li>
-  <li>Minecraft cheat using MCP</li>
-  <li>Injectable Minecraft cheat using C++ (dll)</li>
+  <li>
+    Maymester course algorithm 
+    <details>
+      A live course registration website with a student section for my school's special curriculum during May (Maymester).\n
+      Languages: Python, Javascript, HTML, CSS\n
+      Frameworks: Flask, SQL, Docker\n
+    </details>
+  </li> 
+  <li>
+    Valentine's Day matchmaker survey
+    <details>
+      A website and algorithm for my school newspaper's Valentine's Day matchmaker survey. The website form saves student entries for a set of questions used to determine matches, and the backend uses a cosine similarity function to determine the 5 best compatible matches for each participant.
+      Languages: Python, Javascript, HTML, CSS
+      Frameworks: Flask
+    </details>
+  </li>
+  <li>
+    LSTM Neural network stock analysis and future prediction
+    <details>
+      A Long-Short-Term-Memory neural network made using Keras and trained with data from historical stock market data to predict future trends. I made this project because of a stock trading competition in my Macroeconomics class. The neural network uses an API I painstakingly made to automate trades in our stock game on Marketwatch.
+      Languages: Python
+      Frameworks: Tensorflow, Keras, Scikit-learn
+    </details>
+  </li>
+  <li>
+    Minecraft cheat using MCP
+    <details>
+      A custom version of Minecraft made using MCP. The modded version allows for the player to fly, attack other entities without looking at them, and do an array of things that aren't normally possible. DISCLAIMER: The client has not been used to cheat against other players and was made completely for the objective of learning Java.\n
+      Languages: Java\n
+      Frameworks: Minecraft Coder Pack (MCP)\n
+    </details>
+  </li>
+  <li>
+    Injectable Minecraft cheat using C++
+    <details>
+      A DLL that can be injected into Minecraft. The program, once injected, has an autoclicker, makes the player place blocks faster, makes it easier to bridge, and can stop the client from sending packets to the server. DISCLAIMER: The client has not been used to cheat against other players and was made completely for the objective of learning C++.\n
+      Languages: C++\n
+      Frameworks: Java Native Interface (JNI)\n
+  </li>
 </ul>
 
 
