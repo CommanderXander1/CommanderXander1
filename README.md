@@ -4,7 +4,7 @@
 <p>Most of the languages and frameworks on my portfolio I have learned through a project on this page!</p>
 <a href="commanderxander1.github.io/portfolio">My portfolio website</a>
 
-##Skills:
+Skills:
 <br>
 <ul>
   <li>Web development</li>
@@ -13,7 +13,7 @@
   <li>Integrated systems programming</li>
 </ul>
 
-##Languages:
+Languages:
 <ul>
   <li>Python</li>
   <li>Javascript</li>
@@ -23,7 +23,7 @@
   <li>SQL</li>
 </ul>
 
-##Frameworks:
+Frameworks:
 <ul>
   <li>Flask</li>
   <li>Tensorflow/Keras</li>
@@ -33,7 +33,7 @@
   <li>FRC/FTC</li>
 </ul>
 
-##Projects:
+Projects:
 <ul>
   <li>
     Maymester course algorithm 
