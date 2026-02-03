@@ -1,10 +1,10 @@
-#Hi, I'm Xander!
+<h1>Hi, I'm Xander!</h1>
 
 <p>I'm a prospective Electrical Engineering student, and I love to learn through projects.</p> 
 <p>Most of the languages and frameworks on my portfolio I have learned through a project on this page!</p>
 <a href="commanderxander1.github.io/portfolio">My portfolio website</a>
 
-Skills:
+<h2>Skills:</h2>
 <br>
 <ul>
   <li>Web development</li>
@@ -13,7 +13,7 @@ Skills:
   <li>Integrated systems programming</li>
 </ul>
 
-Languages:
+<h2>Languages:</h2>
 <ul>
   <li>Python</li>
   <li>Javascript</li>
@@ -23,7 +23,7 @@ Languages:
   <li>SQL</li>
 </ul>
 
-Frameworks:
+<h2>Frameworks:</h2>
 <ul>
   <li>Flask</li>
   <li>Tensorflow/Keras</li>
@@ -33,7 +33,7 @@ Frameworks:
   <li>FRC/FTC</li>
 </ul>
 
-Projects:
+<h2>Projects:</h2>
 <ul>
   <li>
     Maymester course algorithm 
