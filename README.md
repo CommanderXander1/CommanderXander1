@@ -1,6 +1,6 @@
 <h1>Hi, I'm Xander!</h1>
 
-<p>I'm a prospective Electrical Engineering student, and I love to learn through projects.</p>
+<p>I'm a prospective Electrical Engineering student, and I love to learn through projects.</p> 
 <p>Most of the languages and frameworks on my portfolio I have learned through a project on this page!</p>
 <a href="commanderxander1.github.io/portfolio">My portfolio website</a>
 
@@ -31,7 +31,6 @@ Frameworks:
   <li>Arduino</li>
 </ul>
 
-<br>
 Projects:
 <ul>
   <li>Maymester course algorithm</li>
