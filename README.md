@@ -39,9 +39,9 @@
     Maymester course algorithm 
     <details>
       <ul>
-        <li><p>A live course registration website with a student section for my school's special curriculum during May (Maymester).</p></li>
-        <li><p>Languages: Python, Javascript, HTML, CSS</p></li>
-        <li><p>Frameworks: Flask, SQL, Docker</p></li>
+        <li>A live course registration website with a student section for my school's special curriculum during May (Maymester).</li>
+        <li>Languages: Python, Javascript, HTML, CSS</li>
+        <li>Frameworks: Flask, SQL, Docker</li>
       </ul>
     </details>
   </li> 
@@ -49,9 +49,9 @@
     Valentine's Day matchmaker survey
     <details>
       <ul>
-        <li><p>A website and algorithm for my school newspaper's Valentine's Day matchmaker survey. The website form saves student entries for a set of questions used to determine matches, and the backend uses a cosine similarity function to determine the 5 best compatible matches for each participant.</p></li>
-        <li><p>Languages: Python, Javascript, HTML, CSS</p></li>
-        <li><p>Frameworks: Flask</p></li>
+        <li>A website and algorithm for my school newspaper's Valentine's Day matchmaker survey. The website form saves student entries for a set of questions used to determine matches, and the backend uses a cosine similarity function to determine the 5 best compatible matches for each participant.</li>
+        <li>Languages: Python, Javascript, HTML, CSS</li>
+        <li>Frameworks: Flask</li>
       </ul>
     </details>
   </li>
@@ -59,9 +59,9 @@
     LSTM Neural network stock analysis and future prediction
     <details>
       <ul>
-        <li><p>A Long-Short-Term-Memory neural network made using Keras and trained with data from historical stock market data to predict future trends. I made this project because of a stock trading competition in my Macroeconomics class. The neural network uses an API I painstakingly made to automate trades in our stock game on Marketwatch.</p></li>
-        <li><p>Languages: Python</p></li>
-        <li><p>Frameworks: Tensorflow, Keras, Scikit-learn</p></li>
+        <li>A Long-Short-Term-Memory neural network made using Keras and trained with data from historical stock market data to predict future trends. I made this project because of a stock trading competition in my Macroeconomics class. The neural network uses an API I painstakingly made to automate trades in our stock game on Marketwatch.</li>
+        <li>Languages: Python</li>
+        <li>Frameworks: Tensorflow, Keras, Scikit-learn</li>
       </ul>
     </details>
   </li>
@@ -69,10 +69,9 @@
     Minecraft cheat using MCP
     <details>
       <ul>
-        <li><p>A custom version of Minecraft made using MCP. The modded version allows for the player to fly, attack other entities without looking at them, and do an array of things that aren't normally possible. DISCLAIMER: The client has not been used to cheat against other players and was made completely for the objective of learning Java.</p>
-      <p>Languages: Java</p></li>
-        <li><p>Languages: Java</p></li>
-        <li><p>Frameworks: Minecraft Coder Pack (MCP)</p></li>
+        <li>A custom version of Minecraft made using MCP. The modded version allows for the player to fly, attack other entities without looking at them, and do an array of things that aren't normally possible. DISCLAIMER: The client has not been used to cheat against other players and was made completely for the objective of learning Java.</li>
+        <li>Languages: Java</li>
+        <li>Frameworks: Minecraft Coder Pack (MCP)</li>
       </ul>
     </details>
   </li>
@@ -80,9 +79,9 @@
     Injectable Minecraft cheat using C++
     <details>
       <ul>
-        <li><p>A DLL that can be injected into Minecraft. The program, once injected, has an autoclicker, makes the player place blocks faster, makes it easier to bridge, and can stop the client from sending packets to the server. DISCLAIMER: The client has not been used to cheat against other players and was made completely for the objective of learning C++.</p></li>
-        <li><p>Languages: C++</p></li>
-        <li><p>Frameworks: Java Native Interface (JNI)</p></li>
+        <li>A DLL that can be injected into Minecraft. The program, once injected, has an autoclicker, makes the player place blocks faster, makes it easier to bridge, and can stop the client from sending packets to the server. DISCLAIMER: The client has not been used to cheat against other players and was made completely for the objective of learning C++.</li>
+        <li>Languages: C++</li>
+        <li>Frameworks: Java Native Interface (JNI)</li>
       </ul>
   </li>
 </ul>
