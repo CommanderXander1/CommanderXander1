@@ -2,7 +2,7 @@
 
 <p>I'm a prospective Electrical Engineering student, and I love to learn through projects.</p> 
 <p>Most of the languages and frameworks on my portfolio I have learned through a project on this page!</p>
-<a href="commanderxander1.github.io/portfolio">My portfolio website</a>
+<a href="commanderxander1.github.io">My portfolio website</a>
 
 <h2>Skills:</h2>
 <br>
