@@ -1,6 +1,6 @@
 <h1>Hi, I'm Xander!</h1>
 
-<p>I'm a prospective Electrical Engineering student, and I love to learn through projects.</p> 
+<p>I'm a prospective Computer Science/Electrical Engineering student, and I love to learn through projects.</p> 
 <p>Most of the languages and frameworks on my portfolio I have learned through a project on this page!</p>
 <a href="https://commanderxander1.github.io">My portfolio website</a>
 
