@@ -51,9 +51,18 @@
       <ul>
         <li>A website and algorithm for my school newspaper's Valentine's Day matchmaker survey. The website form saves student entries for a set of questions used to determine matches, and the backend uses a cosine similarity function to determine the 5 best compatible matches for each participant.</li>
         <li>Languages: Python, Javascript, HTML, CSS</li>
-        <li>Frameworks: Flask</li>
+        <li>Frameworks: Flask, Pandas</li>
       </ul>
     </details>
+  </li>
+  <li>
+    Fundraiser manager
+    <details>
+      <ul>
+        <li>A website for my school, allowing service leaders and faculty to more easily manage fundraiser campaigns. The website allows the creation of campaigns which keep track of student payments and offer automated reward tiers. Student payment info can be created on the website or bulk uploaded through a CSV file.</li>
+        <li>Languages: Python, Javascript, HTML, CSS</li>
+        <li>Frameworks: Flask, SQL</li>
+      </ul>
   </li>
   <li>
     LSTM Neural network stock analysis and future prediction
@@ -85,19 +94,3 @@
       </ul>
   </li>
 </ul>
-
-
-<!--
-**CommanderXander1/CommanderXander1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
