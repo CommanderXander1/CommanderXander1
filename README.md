@@ -39,7 +39,7 @@
     Maymester course algorithm 
     <details>
       <ul>
-        <li>A live course registration website with a student section for my school's special curriculum during May (Maymester).</li>
+        <li>A live course registration website with a student section for my school's special curriculum during May (Maymester). Repository is private.</li>
         <li>Languages: Python, Javascript, HTML, CSS</li>
         <li>Frameworks: Flask, SQL, Docker</li>
       </ul>
@@ -49,7 +49,7 @@
     Valentine's Day matchmaker survey
     <details>
       <ul>
-        <li>A website and algorithm for my school newspaper's Valentine's Day matchmaker survey. The website form saves student entries for a set of questions used to determine matches, and the backend uses a cosine similarity function to determine the 5 best compatible matches for each participant.</li>
+        <li>A website and algorithm for my school newspaper's Valentine's Day matchmaker survey. The website form saves student entries for a set of questions used to determine matches, and the backend uses a cosine similarity function to determine the 5 best compatible matches for each participant. Repository is private.</li>
         <li>Languages: Python, Javascript, HTML, CSS</li>
         <li>Frameworks: Flask, Pandas</li>
       </ul>
@@ -59,7 +59,7 @@
     Fundraiser manager
     <details>
       <ul>
-        <li>A website for my school, allowing service leaders and faculty to more easily manage fundraiser campaigns. The website allows the creation of campaigns which keep track of student payments and offer automated reward tiers. Student payment info can be created on the website or bulk uploaded through a CSV file.</li>
+        <li>A website for my school, allowing service leaders and faculty to more easily manage fundraiser campaigns. The website allows the creation of campaigns which keep track of student payments and offer automated reward tiers. Student payment info can be created on the website or bulk uploaded through a CSV file. Repository is private.</li>
         <li>Languages: Python, Javascript, HTML, CSS</li>
         <li>Frameworks: Flask, SQL</li>
       </ul>
