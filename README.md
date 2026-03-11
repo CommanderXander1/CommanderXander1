@@ -68,7 +68,7 @@
     LSTM Neural network stock analysis and future prediction
     <details>
       <ul>
-        <li>A Long-Short-Term-Memory neural network made using Keras and trained with data from historical stock market data to predict future trends. I made this project because of a stock trading competition in my Macroeconomics class. The neural network uses an API I painstakingly made to automate trades in our stock game on Marketwatch.</li>
+        <li>A Long-Short-Term-Memory neural network made using Keras and trained with historical stock market data to predict future trends. I made this project because of a stock trading competition in my Macroeconomics class. The neural network uses an API I painstakingly made to automate trades in our stock game on Marketwatch.</li>
         <li>Languages: Python</li>
         <li>Frameworks: Tensorflow, Keras, Scikit-learn</li>
       </ul>
