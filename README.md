@@ -5,7 +5,6 @@
 <a href="https://commanderxander1.github.io">My portfolio website</a>
 
 <h2>Skills:</h2>
-<br>
 <ul>
   <li>Web development</li>
   <li>Machine learning</li>
